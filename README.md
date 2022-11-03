@@ -2,20 +2,21 @@
 
 Папка для учебных проектов
 
-#### Project #1
+## Project #1
 
-**/learn__redux/project_1**
+#### /learn__redux/project_1
 
-По туториалу https://youtu.be/C0fBnil_Im4
+**По туториалу https://youtu.be/C0fBnil_Im4**
 
 Шаг 1. Добавлено простое Todo приложение, где мы можем добавить новое todo, сделать его выполненным или удалить.
 Шаг 2. Добавлен redux, который используется через redux-toolkit.
 Шаг 3. Добавлен запрос данных с jsonplaceholder + все действия для todo переделаны на асинхронные запросы.
 
 
-**/learn__redux/project_1_ts**
+#### /learn__redux/project_1_ts
 
-По туториалу https://youtu.be/uRlh6-tHWEE
+**По туториалу https://youtu.be/uRlh6-tHWEE**
+
 Тот же самый проект, что и выше, но с типизацией :)
 
 Шаг 1. Добавлена кастомные шуки с типизацией + типизирован слайс.
